@@ -5,4 +5,4 @@
 (define scribblings '(("scribblings/rkt-logger.scrbl" ())))
 (define pkg-desc "Simple effective logging in Racket")
 (define version "0.1.0")
-(define pkg-authors '(Kevin Robert Stravers))
+(define pkg-authors '("Kevin Robert Stravers"))
